@@ -1,3 +1,3 @@
-# vedema.github.io
+# vedema.github.io (https://github.com/Vedema/Data_Analytics_ARU)
 
-Week 0 setup completed by Vivian Edema
+This is my data analytics portfolio of projects.
