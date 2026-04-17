@@ -127,14 +127,3 @@ h2 {
 .copyright {
     color: #777;
 }
-
-/* RESTORE CARD SPACING (DO NOT CHANGE DESIGN) */
-
-.project-row {
-    margin-top: 40px;
-    row-gap: 30px;
-}
-
-.project-row>div {
-    margin-bottom: 20px;
-}
